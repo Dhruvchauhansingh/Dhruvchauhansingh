@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>🔭 I’m currently working on Java-based projects and Full-Stack web applications<br>👯 I’m looking to collaborate on Java, Spring Boot, and Web Development projects<br>🤝 I’m looking for help with system design, real-world project architecture, and interview prep<br>🌱 I’m currently learning Java, Spring Boot, SQL, HTML, CSS, JavaScript, and Git/GitHub<br>💬 Ask me about Java, OOPs, Data Structures, SQL, and basic Full-Stack development<br>⚡ Fun fact: I enjoy turning complex logic into simple, readable code
+👨‍💻 About Me<br><br>🔭 I’m currently working on Java-based projects and Full-Stack web applications<br>👯 I’m looking to collaborate on Java, Spring Boot, and Web Development projects<br>🤝 I’m looking for help with system design, real-world project architecture, and interview prep<br>🌱 I’m currently learning Java, Spring Boot, SQL, HTML, CSS, JavaScript, and Git/GitHub<br>💬 Ask me about Java, OOPs, Data Structures, SQL, and basic Full-Stack development<br>⚡ Fun fact: I debug my code longer than I write it 😄 — but I never give up!
 
 
 ## 🌐 Socials:
